@@ -34,10 +34,13 @@ Created three functional dashboards focused on different variables:
 Learning Aspirations,
 Manager Aspirations,
 Mission Aspirations
-These dashboards were designed to offer more granular insights for HR and recruitment teams.
+. These dashboards were designed to offer more granular insights for HR and recruitment teams.
 
 Technical Skills & Tools
 Data Cleaning: Microsoft Excel
+
 Data Analysis: Excel Pivot Tables, SQL
-Data Visualization: Executive and Functional Dashboards (Excel/Google Data Studio)
+
+Data Visualization: Executive and Functional Dashboards (Excel)
+
 Survey Design: Collaborative effort with KultureHire
