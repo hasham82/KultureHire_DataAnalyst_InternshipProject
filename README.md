@@ -1,4 +1,5 @@
 Career Aspirations of Gen Z – KultureHire Data Analysis Project
+
 Project Overview
 This project was completed during my 60-day Data Analyst Internship at KultureHire. The objective was to analyze the career aspirations of Generation Z based on survey data. I participated in every stage of the project, from problem identification to the creation of detailed dashboards, providing actionable insights for stakeholders.
 
